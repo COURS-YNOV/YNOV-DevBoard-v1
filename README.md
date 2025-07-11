@@ -35,9 +35,8 @@ Ce dossier contient le logiciel développé pour tester automatiquement les fonc
 🧪 Outils utilisés :
 - PlatformIO + Framework Arduino
 - Unity Framework pour les tests unitaires
-- Bibliothèque BLE [`bleak`](https://github.com/hbldh/bleak)
 
-📂 Pour plus de détails 👉 [software/README.md](./software/README.md)
+📂 Pour plus de détails 👉 [Software/README.md](./Software/README.md)
 
 ---
 
@@ -57,7 +56,7 @@ Ce dossier contient tous les éléments nécessaires à la conception de la cart
 - Bibliothèques de composants
 - Contraintes de routage strictes (sans composants sur face bottom, pas d’angles droits, plan de masse obligatoire…)
 
-📂 Pour plus de détails 👉 [hardware/README.md](./hardware/README.md)
+📂 Pour plus de détails 👉 [Hardware/README.md](./Hardware/README.md)
 
 ---
 
